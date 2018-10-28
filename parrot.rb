@@ -4,6 +4,6 @@
 
 def parrot (phrase)
 
-  print "#{phrase}"
-  
+  puts "#{phrase}"
+
   return phrase
